@@ -1,0 +1,12 @@
+{
+    "name": "fabienlege/lms-fr",
+    "description": "Traduction Française de Learndash",
+    "type": "wp-plugin-language",
+    "authors": [
+        {
+            "name": "Fabien LEGE",
+            "email": "fabien.lege@ho5group.com"
+        }
+    ],
+    "require": {}
+}
